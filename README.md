@@ -1,6 +1,6 @@
 # Projeto Final de Engenharia de Dados IBM
 
-Este é o repositório do projeto final desenvolvido para o curso "Certificado Profissional IBM Data Engineering", que culmina na certificação do aluno.
+Este é o repositório do projeto final desenvolvido para o curso "Certificado Profissional IBM Data Engineering".
 
 O escopo do projeto é o "IBM Data Engineering Capstone Project", onde o aluno assume o papel de um Junior Data Engineer e trabalha com dados de vendas de e-commerce.
 
