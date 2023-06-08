@@ -1,14 +1,11 @@
 # Modulo 2 - 
 
-In this module, you will design a data platform that uses MongoDB as a NoSQL database. You will use MongoDB to store the e-commerce catalog data.
-Objetivos de aprendizagem
+Neste módulo, foi projetado uma plataforma de dados que usa o MongoDB como um banco de dados NoSQL. Usando o MongoDB para armazenar os dados do catálogo de comércio eletrônico.
 
-    Import data into a MongoDB database.
-    Query data in a MongoDB database.
-    Export data from MongoDB.
+Objetivos:
 
-- Importar o banco de dados do catálogo que está no formato JSON.
-- Realizar operações agregadas nos dados da coleção "eletrônicos".
-- Exportar os dados da coleção "eletrônicos" em formato CSV usando o comando mongoexport.
-- Ferramentas / software: MongoDB Server e MongoDB Command Line Backup Tools.
 
+- Importe o banco de dados do catálogo que está no formato JSON.
+- Realizar operações agregadas sobre os dados de coleta "eletrônica".
+- Exporte os dados da coleção "eletrônica" no formato CSV usando o comando mongoexport.
+- Ferramentas/software: Servidor MongoDB e ferramentas de backup de linha de comando MongoDB.
